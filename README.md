@@ -26,13 +26,6 @@ The discipline required to write excellent code and grow a global business is bu
 
 ---
 
-### 📊 GitHub Stats
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdrengifo04-source&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdrengifo04-source&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📫 Let's Connect!
 
 * **Watch my latest content:** [Jonathan Rengifo TV on YouTube](https://www.youtube.com/@JonathanRengifoTV)
